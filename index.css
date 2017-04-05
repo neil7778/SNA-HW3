@@ -1,0 +1,57 @@
+p{
+line-height: 28px;
+}
+
+ul{
+line-height: 26px;
+}
+
+a{
+color: #008080;
+}
+
+body{
+display: flex;
+}
+
+article{
+width: 70%;
+}
+
+/*段落變色-CSS寫法*/
+/*p:hover
+{
+    background-color: red;
+}*/
+
+aside{
+margin: 100px 10px;
+width: 25%;
+height: 500px;
+background-color: rgb(200,200,200);
+border-radius: 10px;
+}
+
+#caco{
+width:280px;
+margin: 10px 15px auto 15px;
+}
+
+#cacotext{
+margin: auto 15px;
+font-size: 10px;
+color: rgb(100,100,100);
+}
+
+/*自定義更改字型大小的class*/
+.small{
+	font-size: small;
+}
+
+.medium{
+	font-size: medium;
+}
+
+.large{
+	font-size: large;
+}
